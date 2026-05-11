@@ -89,6 +89,7 @@
         "items": [
             {
                 "id":"notebook",
+                "image":"https://www.engadget.com/engadget/best-macbook-140032524/1f70a8b0-b029-11f0-afff-79baf525ff46.webp",
                 "name":"Mac"
             }
         ],
@@ -100,9 +101,11 @@
         "job":"History teach",
         "alive":"Yes",
         "height":160, 
+        "image":"https://www.teacherbuilder.com/wp-content/uploads/2023/05/become-a-history-teacher-in-texas-1.jpg",
         "items": [
             {
                 "id":"book",
+                "image":"https://econtent.edu.mn/content/11rangi/mglhist/pages/mglhist-275-0.jpg",
                 "name":"history book"
             }
         ],
@@ -114,9 +117,11 @@
         "job":"Social teach",
         "alive":"Yes",
         "height":160,
+        "image":"https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170916564/87072133-asian-female-teacher-teaching-in-class.jpg",
         "items": [
             {
                 "id":"car",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Kokusai_Motorcars_Toyota_Crown_Majesta_S210.jpg",
                 "name":"crown"
             }
         ],
@@ -128,9 +133,11 @@
         "job":"Mongolian teach",
         "alive":"Yes",
         "height":160,
+        "image":"https://thumbs.dreamstime.com/b/asian-female-teacher-isolated-white-43189255.jpg",
         "items": [
             {
                 "id":"book",
+                "image":"https://econtent.edu.mn/content/11rangi/mon/pages/mon-274-0.jpg",
                 "name":"surah bicg"
             }
         ],
@@ -142,9 +149,11 @@
         "job":"PE teach",
         "alive":"yes",
         "height":160,
+        "image":"https://blog.jobsinsports.com/wp-content/uploads/2025/03/featured-female-pe-teacher-teaching-pe-class.jpg",
         "items": [
             {
                 "id":"whistle",
+                "image":"https://56d71e34.aerocdn.com/image-factory/609df5ced02895d717543d03436982105b4fda5b~1330x1330:crop,upscale/images/products/Ys4irBFt5hgzEmCPxWzWPQCXfyZykFv7UaBaYzKZ.jpg",
                 "name":"Yellow whistle"
             }
         ],
@@ -158,9 +167,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://terrabacchus.fr/wp-content/uploads/sites/25/2017/03/Ananas.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://images.samsung.com/is/image/samsung/p6pim/ae/s2602/gallery/ae-galaxy-s26-ultra-s948-sm-s948bzdomea-thumb-550788682",
                     "name":"Samsung"
                 }
             ],
@@ -172,9 +183,11 @@
             "lastname": "B",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://pamsdailydish.com/wp-content/uploads/2015/04/Bunch-Bananas-1.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://images.samsung.com/is/image/samsung/p6pim/ae/s2602/gallery/ae-galaxy-s26-ultra-s948-sm-s948bzdomea-thumb-550788682",
                     "name":"Samsung"
                 }
             ],
@@ -186,9 +199,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"Iphone"
                 }
             ],
@@ -196,13 +211,15 @@
         },
         {
             "id":4,
-            "firstname": "Ariuna",
+            "firstname": "Ariunbayar",
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -214,9 +231,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"Iphone"
                 }
             ],
@@ -228,9 +247,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -242,9 +263,11 @@
             "lastname": "U",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://images.samsung.com/is/image/samsung/p6pim/ae/s2602/gallery/ae-galaxy-s26-ultra-s948-sm-s948bzdomea-thumb-550788682",
                     "name":"Samsung"
                 }
             ],
@@ -256,9 +279,11 @@
             "lastname": "M",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -270,9 +295,11 @@
             "lastname": "E",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -284,9 +311,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlKqtxI17uUtgcS2HDPQ-I87jOMWmwvQocQ&s",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -298,9 +327,11 @@
             "lastname": "G",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://fretello.com/news/content/images/2025/05/A-minor-natural.png",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://images.samsung.com/is/image/samsung/p6pim/ae/s2602/gallery/ae-galaxy-s26-ultra-s948-sm-s948bzdomea-thumb-550788682",
                     "name":"Samsung"
                 }
             ],
@@ -312,9 +343,11 @@
             "lastname": "I",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -326,9 +359,11 @@
             "lastname": "O",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://www.illumination.com/wp-content/uploads/2019/11/DM1_Vector.png",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -340,10 +375,12 @@
             "lastname": "B",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgdV6AOuBYVLGhLAMk4IuwLOkYzU-8Km04A&s",
             "items": [
                 {
                     "id":"Phone",
-                    "name":"Samsung"
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
+                    "name":"Iphone"
                 }
             ],
             "height": 170
@@ -354,9 +391,11 @@
             "lastname": "T",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"Iphone"
                 }
             ],
@@ -368,9 +407,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -382,9 +423,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://images.samsung.com/is/image/samsung/p6pim/ae/s2602/gallery/ae-galaxy-s26-ultra-s948-sm-s948bzdomea-thumb-550788682",
                     "name":"Samsung"
                 }
             ],
@@ -396,9 +439,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -410,9 +455,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"",
                     "name":"iphone"
                 }
             ],
@@ -424,9 +471,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -438,9 +487,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -452,9 +503,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -466,9 +519,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -480,9 +535,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://images.samsung.com/is/image/samsung/p6pim/ae/s2602/gallery/ae-galaxy-s26-ultra-s948-sm-s948bzdomea-thumb-550788682",
                     "name":"Android"
                 }
             ],
@@ -494,9 +551,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://learn.kotoenglish.com/wp-content/uploads/2025/07/Boy-Definition.webp",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://images.samsung.com/is/image/samsung/p6pim/ae/s2602/gallery/ae-galaxy-s26-ultra-s948-sm-s948bzdomea-thumb-550788682",
                     "name":"Android"
                 }
             ],
@@ -508,9 +567,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
@@ -522,9 +583,11 @@
             "lastname": "A",
             "job": "Jobless",
             "alive": "true",
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/036/151/775/small/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg",
             "items": [
                 {
                     "id":"Phone",
+                    "image":"https://www.wireless.walmart.ca/wp-content/uploads/2024/01/iPhone-15.jpg",
                     "name":"iphone"
                 }
             ],
