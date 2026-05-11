@@ -41,7 +41,7 @@ export default function Home() {
                   {item.firstname}
                 </div>
 
-                <div className="bg-blue-400 text-white text-sm px-3 py-1 rounded-full w-fit">
+                <div className="bg-blue-200 text-gray-200 text-sm px-3 py-1 rounded-full w-fit">
                   {item.job}
                 </div>
               </div>
@@ -59,7 +59,7 @@ export default function Home() {
               {item.items.map((subItem) => (
                 <div
                   key={subItem.id}
-                  className="border rounded-xl p-2 flex flex-col gap-2"
+                  className="border bg-gray-200 rounded-xl p-2 flex flex-col gap-2"
                 >
                   <div>{subItem.name}</div>
 
