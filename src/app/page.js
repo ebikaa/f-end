@@ -59,7 +59,7 @@ export default function Home() {
               {item.items.map((subItem) => (
                 <div
                   key={subItem.id}
-                  className="border bg-gray-200 rounded-xl p-2 flex flex-col gap-2"
+                  className="border rounded-xl p-2 flex flex-col gap-2"
                 >
                   <div>{subItem.name}</div>
 
