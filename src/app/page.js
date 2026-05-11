@@ -41,7 +41,7 @@ export default function Home() {
                   {item.firstname}
                 </div>
 
-                <div className="bg-blue-200 text-gray-200 text-sm px-3 py-1 rounded-full w-fit">
+                <div className="bg-blue-400 text-white text-sm px-3 py-1 rounded-full w-fit">
                   {item.job}
                 </div>
               </div>
