@@ -1,0 +1,535 @@
+[
+    {
+        "id":1,
+        "firstname":"Khorloo",
+        "job":"math teach",
+        "alive":"Yes",
+        "height":154,
+        "image":"https://ivypanda.com/blog/wp-content/uploads/2023/12/woman-teacher-writed-mathematical-formulas-blackboard-explain-lesson-school-736x491.jpg",
+        "items": [
+            {
+                "id":"Book",
+                "Image":"https://image.internom.mn/public/product-image/e39c18af-1773-40a1-9844-70ce5a027bf3.png",
+                "name":"6000 bodlogo"
+            }
+        ],
+        "age":54
+    },
+    {
+        "id":2,
+        "firstname":"Temuujin",
+        "job":"F/end",
+        "alive":"Yes",
+        "height":180,
+        "image":"https://motorcyclemojo.com/wp-content/uploads/2017/04/BJN18674.jpg",
+        "items": [
+            {
+                "id":"Kawasaki",
+                "Image":"https://www.team-bhp.com/sites/default/files/styles/check_extra_large_for_review/public/IMG_3578%20(1).jpg",
+                "name":"Ninja"
+            }
+        ],
+        "age":23
+    },
+    {
+        "id":3,
+        "firstname":"Sod-Od",
+        "job":"Principle",
+        "alive":"Yes",
+        "height":180,
+        "image":"https://avatars.githubusercontent.com/u/2024597?v=4",
+        "items": [
+            {
+                "id":"Notebook",
+                "Image":"https://techtoro.io/image/cache/catalog/Blogs/macbook%20m4%20news/mac-air-m4-1920x1080.jpg",
+                "name":"Mac"
+            }
+        ],
+        "age":40
+    },
+    {
+        "id":4,
+        "firstname":"Lavenia",
+        "job":"English teach",
+        "alive":"Yes",
+        "height":160,
+        "image":"https://i1.rgstatic.net/ii/profile.image/849189911134208-1579474060802_Q512/Lavenia-Lawakele.jpg",
+        "items": [
+            {
+                "id":"glass",
+                "Image":"https://www.justgoodglasses.co.uk/wp-content/uploads/2022/02/pl-51-4-front.jpg",
+                "name":"pink glass"
+            }
+        ],
+        "age":60
+    },
+    {
+        "id":5,
+        "firstname":"Barkhasbold",
+        "job":"Design teach",
+        "alive":"Yes",
+        "height":170,
+        "image":"https://static.vecteezy.com/system/resources/previews/036/241/740/non_2x/flat-teacher-character-design-illustration-free-vector.jpg",
+        "items": [
+            {
+                "id":"notebook",
+                "image":"https://thetechrevolutionist.com/wp-content/uploads/2019/08/IMG_20190803_153212.jpg",
+                "name":"Razer"
+            }
+        ],
+        "age":30
+    },
+    {
+        "id":6,
+        "firstname":"Dul",
+        "job":"Counsler",
+        "alive":"Yes",
+        "height":160,
+        "image":"https://assets.everspringpartners.com/96/9c/76912e344e0fab78db00fa9964df/wm-soe-transition-from-teacher-to-counselor.jpg",
+        "items": [
+            {
+                "id":"notebook",
+                "name":"Mac"
+            }
+        ],
+        "age":30
+    },
+    {
+        "id":7,
+        "firstname":"Azjargal",
+        "job":"History teach",
+        "alive":"Yes",
+        "height":160, 
+        "items": [
+            {
+                "id":"book",
+                "name":"history book"
+            }
+        ],
+        "age":20
+    },
+    {
+        "id":8,
+        "firstname":"Chantsalnym",
+        "job":"Social teach",
+        "alive":"Yes",
+        "height":160,
+        "items": [
+            {
+                "id":"car",
+                "name":"crown"
+            }
+        ],
+        "age":30
+    },
+    {
+        "id":9,
+        "firstname":"Javzaa",
+        "job":"Mongolian teach",
+        "alive":"Yes",
+        "height":160,
+        "items": [
+            {
+                "id":"book",
+                "name":"surah bicg"
+            }
+        ],
+        "age":20
+    },
+    {
+        "id":10,
+        "firstname":"Erdenetsetsg",
+        "job":"PE teach",
+        "alive":"yes",
+        "height":160,
+        "items": [
+            {
+                "id":"whistle",
+                "name":"Yellow whistle"
+            }
+        ],
+        "age":20
+    },
+
+    
+        {
+            "id":1,
+            "firstname": "Anand",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Samsung"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":2,
+            "firstname": "Anand",
+            "lastname": "B",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Samsung"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":3,
+            "firstname": "Ahzaya",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":4,
+            "firstname": "Ariuna",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":5,
+            "firstname": "Arvii",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Iphone"
+                }
+            ],
+            "height": 170  
+        },
+        {
+            "id":6,
+            "firstname": "Bataa",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170  
+        },
+        {
+            "id":7,
+            "firstname": "Manlai",
+            "lastname": "U",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Samsung"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":8,
+            "firstname": "Purvee",
+            "lastname": "M",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":9,
+            "firstname": "Munkhnar",
+            "lastname": "E",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":10,
+            "firstname": "Zolboo",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":11,
+            "firstname": "Chingun",
+            "lastname": "G",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Samsung"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":12,
+            "firstname": "enkhbileg",
+            "lastname": "I",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":13,
+            "firstname": "tenuun",
+            "lastname": "O",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":14,
+            "firstname": "tselmeg",
+            "lastname": "B",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Samsung"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":15,
+            "firstname": "Temuulen",
+            "lastname": "T",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Iphone"
+                }
+            ],
+            "height": 170  
+        },
+        {
+            "id":16,
+            "firstname": "Munkhchimeg",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":17,
+            "firstname": "Tselmuun",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Samsung"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":18,
+            "firstname": "Nyamaa",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":19,
+            "firstname": "Margad",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":20,
+            "firstname": "Tergel",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":21,
+            "firstname": "Enkhtushig",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":22,
+            "firstname": "Erkhembileg",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":23,
+            "firstname": "Nymka",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":24,
+            "firstname": "Munkhbold",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Android"
+                }
+            ],
+            "height": 170  
+        },
+        {
+            "id":25,
+            "firstname": "Zorigt",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"Android"
+                }
+            ],
+            "height": 170 
+        },
+        {
+            "id":26,
+            "firstname": "Urankhishig",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170
+        },
+        {
+            "id":27,
+            "firstname": "Tsolmon",
+            "lastname": "A",
+            "job": "Jobless",
+            "alive": "true",
+            "items": [
+                {
+                    "id":"Phone",
+                    "name":"iphone"
+                }
+            ],
+            "height": 170 
+        }
+        
+    
+    ]
